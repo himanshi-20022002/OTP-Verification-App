@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Project1</string>
+    <string name="we_will_send_the_otp_on_this_given_mobile_number">We will send the otp on this given mobile number</string>
+    <string name="enter_mobile_number">Enter mobile number</string>
+    <string name="otp_verification">OTP Verification</string>
+    <string name="_91">+91</string>
+    <string name="please_enter_the_otp_send_to_you">Please enter the OTP send to you</string>
+    <string name="didn_t_receive_otp">Didn \'t receive OTP</string>
+    <string name="_6876833432">6876833432</string>
+</resources>
